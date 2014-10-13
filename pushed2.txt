@@ -1,0 +1,4 @@
+Creado en el repositorio local y subido al repositorio remoto con las órdenes:
+git add pushed2.txt
+git commit -m "Pushed from local repo"
+git push
